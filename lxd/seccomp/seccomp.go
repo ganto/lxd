@@ -310,7 +310,7 @@ move_mount errno 38
 //                          MS_NOEXEC | MS_SYNCHRONOUS | MS_MANDLOCK |
 //                          MS_DIRSYNC | MS_NOATIME | MS_NODIRATIME | MS_REC |
 //                          MS_VERBOSE | MS_SILENT | MS_POSIXACL | MS_RELATIME |
-//                          MS_STRICTATIME | MS_LAZYTIME;
+//                          MS_STRICTATIME;
 //
 // Now we inverse the flag:
 //
@@ -1191,7 +1191,7 @@ type MountArgs struct {
 	shift  bool
 }
 
-const knownFlags C.ulong = C.MS_BIND | C.MS_LAZYTIME | C.MS_MANDLOCK |
+const knownFlags C.ulong = C.MS_BIND | C.MS_MANDLOCK |
 	C.MS_NOATIME | C.MS_NODEV | C.MS_NODIRATIME |
 	C.MS_NOEXEC | C.MS_NOSUID | C.MS_REMOUNT |
 	C.MS_RDONLY | C.MS_STRICTATIME |
@@ -1201,7 +1201,6 @@ const knownFlagsRecursive C.ulong = knownFlags | C.MS_REC
 var mountFlagsToOptMap = map[C.ulong]string{
 	C.MS_BIND:            "bind",
 	C.ulong(0):           "defaults",
-	C.MS_LAZYTIME:        "lazytime",
 	C.MS_MANDLOCK:        "mand",
 	C.MS_NOATIME:         "noatime",
 	C.MS_NODEV:           "nodev",

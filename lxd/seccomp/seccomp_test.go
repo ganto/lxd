@@ -10,12 +10,12 @@ import (
 
 func TestMountFlagsToOpts(t *testing.T) {
 	opts := mountFlagsToOpts(knownFlags)
-	if opts != "ro,nosuid,nodev,noexec,sync,remount,mand,noatime,nodiratime,bind,strictatime,lazytime" {
+	if opts != "ro,nosuid,nodev,noexec,sync,remount,mand,noatime,nodiratime,bind,strictatime" {
 		t.Fatal(fmt.Errorf("Mount options parsing failed with invalid option string: %s", opts))
 	}
 
 	opts = mountFlagsToOpts(knownFlagsRecursive)
-	if opts != "ro,nosuid,nodev,noexec,sync,remount,mand,noatime,nodiratime,rbind,strictatime,lazytime" {
+	if opts != "ro,nosuid,nodev,noexec,sync,remount,mand,noatime,nodiratime,rbind,strictatime" {
 		t.Fatal(fmt.Errorf("Mount options parsing failed with invalid option string: %s", opts))
 	}
 }
