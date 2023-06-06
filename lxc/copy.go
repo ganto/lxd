@@ -364,7 +364,9 @@ func (c *cmdCopy) copyInstance(conf *config.Config, sourceResource string, destR
 		}
 
 		// Ensure we don't change the target's volatile.idmap.next value.
-		writable.Config["volatile.idmap.next"] = inst.Config["volatile.idmap.next"]
+		if inst.Config["volatile.idmap.next"] != writable.Config["volatile.idmap.next"] {
+			writable.Config["volatile.idmap.next"] = inst.Config["volatile.idmap.next"]
+		}
 
 		op, err := dest.UpdateInstance(destName, writable, etag)
 		if err != nil {
