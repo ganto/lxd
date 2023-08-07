@@ -1,6 +1,6 @@
 ---
 discourse: 13114,15142
-relatedlinks: https://www.youtube.com/watch?v=6O0q3rSWr8A
+relatedlinks: "[LXD&#32;for&#32;multi-user&#32;systems&#32;-&#32;Youtube](https://www.youtube.com/watch?v=6O0q3rSWr8A)"
 ---
 
 (authentication)=
@@ -20,6 +20,7 @@ The following authentication methods are supported:
 ## TLS client certificates
 
 ```{youtube} https://www.youtube.com/watch?v=4iNpiL-lrXU
+:title: LXD token based remote authentication - Youtube
 ```
 
 When using {abbr}`TLS (Transport Layer Security)` client certificates for authentication, both the client and the server will generate a key pair the first time they're launched.
@@ -157,6 +158,7 @@ The LXD client then retrieves and stores the access and refresh tokens and provi
 ## Candid-based authentication
 
 ```{youtube} https://www.youtube.com/watch?v=FebTipM1jJk
+:title: External authentication on LXD with Candid - Youtube
 ```
 
 You can configure LXD to use [Candid](https://github.com/canonical/candid) authentication by setting the [`candid.*`](server-options-candid-rbac) server configuration options.
@@ -176,6 +178,7 @@ For instructions on how to set up Candid-based authentication, see the [Candid a
 ## Role Based Access Control (RBAC)
 
 ```{youtube} https://www.youtube.com/watch?v=VE60AbJHT6E
+:title: Access control with Canonical RBAC - Youtube
 ```
 
 LXD supports integrating with the Canonical RBAC service, which is included in the [Ubuntu Pro](https://ubuntu.com/pro) subscription.

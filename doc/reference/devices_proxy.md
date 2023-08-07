@@ -6,6 +6,7 @@ discourse: 8355
 # Type: `proxy`
 
 ```{youtube} https://www.youtube.com/watch?v=IbAKwRBW8V0
+:title: LXD proxy devices - Youtube
 ```
 
 ```{note}

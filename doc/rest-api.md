@@ -1,6 +1,7 @@
 # REST API
 
 ```{youtube} https://www.youtube.com/watch?v=YvGbvspXObI
+:title: LXD REST API - Youtube
 ```
 
 All communication between LXD and its clients happens using a RESTful API over HTTP.

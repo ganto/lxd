@@ -378,6 +378,7 @@ opyQ1VRpAg2sV2C4W8irbNqeUsTeZZxhLqp4vNOXXBBrSqUCdPu1JXADV0kavg1l
 ## Use MicroCloud
 
 ```{youtube} https://www.youtube.com/watch?v=ZSZoLnp-Ip0
+:title: Introducing MicroCloud - Youtube
 ```
 
 Instead of setting up your LXD cluster manually, you can use [MicroCloud](https://snapcraft.io/microcloud) to get a fully highly available LXD cluster with Ceph storage up and running.
