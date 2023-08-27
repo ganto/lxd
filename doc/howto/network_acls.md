@@ -10,6 +10,7 @@ Network ACLs are available for the {ref}`OVN NIC type <nic-ovn>`, the {ref}`netw
 ```
 
 ```{youtube} https://www.youtube.com/watch?v=mu34G0cX6Io
+:title: LXD network ACLs - Youtube
 ```
 
 Network {abbr}`ACLs (Access Control Lists)` define traffic rules that allow controlling network access between different instances connected to the same network, and access to and from other networks.

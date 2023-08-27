@@ -2,6 +2,7 @@
 # How to migrate containers from LXC to LXD
 
 ```{youtube} https://www.youtube.com/watch?v=F9GALjHtnUU
+:title: Migrating systems into LXD - Youtube
 ```
 
 LXD provides a tool (`lxc-to-lxd`) that you can use to import LXC containers into your LXD server.

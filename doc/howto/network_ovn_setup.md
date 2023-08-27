@@ -45,6 +45,7 @@ Complete the following steps to create a standalone OVN network that is connecte
 ## Set up a LXD cluster on OVN
 
 ```{youtube} https://www.youtube.com/watch?v=1M__Rm9iZb8
+:title: OVN and a LXD cluster - Youtube
 ```
 
 Complete the following steps to set up a LXD cluster that uses an OVN network.
