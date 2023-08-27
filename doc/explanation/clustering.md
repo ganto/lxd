@@ -6,6 +6,7 @@ discourse: 15728
 # About clustering
 
 ```{youtube} https://www.youtube.com/watch?v=nrOR6yaO_MY
+:title: Deep dive into LXD clustering - Youtube
 ```
 
 To spread the total workload over several servers, LXD can be run in clustering mode.

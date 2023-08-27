@@ -2,6 +2,7 @@
 # About security
 
 ```{youtube} https://www.youtube.com/watch?v=cOOzKdYHkus
+:title: LXD security - Youtube
 ```
 
 % Include content from [../../README.md](../../README.md)
