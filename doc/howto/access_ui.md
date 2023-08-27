@@ -10,6 +10,7 @@ See the [LXD-UI GitHub repository](https://github.com/canonical/lxd-ui) for the 
 ![Graphical console of an instance in the LXD web UI](../images/ui_console.png)
 
 ```{youtube} https://www.youtube.com/watch?v=wqEH_d8LC1k
+:title: Early look at the LXD web UI - Youtube
 ```
 
 The LXD web UI provides you with a graphical interface to manage your LXD server and instances.

@@ -1,6 +1,6 @@
 ---
 discourse: 16647
-relatedlinks: https://www.youtube.com/watch?v=pM0EgUqj2a0
+relatedlinks: "[Deploying&#32;a&#32;new&#32;LXD&#32;image&#32;server&#32;-&#32;Youtube](https://www.youtube.com/watch?v=pM0EgUqj2a0)"
 ---
 
 (remote-image-servers)=

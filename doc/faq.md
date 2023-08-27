@@ -51,6 +51,7 @@ But that's also the cause of most of the security issues with such privileged co
 ## How can I run Docker inside a LXD container?
 
 ```{youtube} https://www.youtube.com/watch?v=_fCSSEyiGro
+:title: Running Docker inside of a LXD container - Youtube
 ```
 
 To run Docker inside a LXD container, set the [`security.nesting`](instance-options-security) property of the container to `true`:

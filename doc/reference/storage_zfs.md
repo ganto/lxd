@@ -6,6 +6,7 @@ discourse: 15872
 # ZFS - `zfs`
 
 ```{youtube} https://www.youtube.com/watch?v=ysLi_LYAs_M
+:title: ZFS storage and LXD - Youtube
 ```
 
 {abbr}`ZFS (Zettabyte file system)` combines both physical volume management and a file system.

@@ -1,6 +1,6 @@
 ---
 discourse: 14579,15457
-relatedlinks: https://youtube.com/watch?v=kVLGbvRU98A
+relatedlinks: "[Ceph&#32;and&#32;a&#32;LXD&#32;cluster&#32;-&#32;Youtube](https://youtube.com/watch?v=kVLGbvRU98A)"
 ---
 
 (storage-cephobject)=
