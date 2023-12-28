@@ -1,6 +1,6 @@
 ---
 discourse: 13114,15142
-relatedlinks: https://www.youtube.com/watch?v=6O0q3rSWr8A
+relatedlinks: "[LXD&#32;for&#32;multi-user&#32;systems&#32;-&#32;Youtube](https://www.youtube.com/watch?v=6O0q3rSWr8A)"
 ---
 
 (authentication)=
@@ -19,6 +19,7 @@ The following authentication methods are supported:
 ## TLS client certificates
 
 ```{youtube} https://www.youtube.com/watch?v=4iNpiL-lrXU
+:title: LXD token based remote authentication - Youtube
 ```
 
 When using {abbr}`TLS (Transport Layer Security)` client certificates for authentication, both the client and the server will generate a key pair the first time they're launched.

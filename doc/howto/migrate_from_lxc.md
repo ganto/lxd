@@ -2,6 +2,7 @@
 # How to migrate containers from LXC to LXD
 
 ```{youtube} https://www.youtube.com/watch?v=F9GALjHtnUU
+:title: Migrating systems into LXD - Youtube
 ```
 
 If you are using LXC and want to migrate all or some of your LXC containers to a LXD installation on the same machine, you can use the `lxc-to-lxd` tool.

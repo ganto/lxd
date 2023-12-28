@@ -2,6 +2,7 @@
 # Communication between instance and host
 
 ```{youtube} https://www.youtube.com/watch?v=xZSnqqWykmo
+:title: The LXD instance API - Youtube
 ```
 
 Communication between the hosted workload (instance) and its host while

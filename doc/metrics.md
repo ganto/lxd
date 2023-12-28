@@ -6,6 +6,7 @@ discourse: 12281,11735
 # How to monitor metrics
 
 ```{youtube} https://www.youtube.com/watch?v=EthK-8hm_fY
+:title: LXD metrics with Prometheus and Grafana - Youtube
 ```
 
 <!-- Include start metrics intro -->

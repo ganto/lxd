@@ -6,6 +6,7 @@ discourse: 14345
 # How to import physical or virtual machines to LXD instances
 
 ```{youtube} https://www.youtube.com/watch?v=F9GALjHtnUU
+:title: Migrating systems into LXD - Youtube
 ```
 
 If you have an existing machine, either physical or virtual (VM or container), you can use the `lxd-migrate` tool to create a LXD instance based on your existing disk or image.

@@ -83,6 +83,7 @@ Note that this operation is supported only for containers, not for VMs.
 ## Access the graphical console (for virtual machines)
 
 ```{youtube} https://www.youtube.com/watch?v=pEUsTMiq4B4
+:title: Arch Linux and Ubuntu Desktop in LXD VMs - Youtube
 ```
 
 On virtual machines, log on to the console to get graphical output.

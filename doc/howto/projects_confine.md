@@ -9,6 +9,7 @@ How to confine a project to a specific user depends on the authentication method
 ## Confine projects to specific TLS clients
 
 ```{youtube} https://www.youtube.com/watch?v=4iNpiL-lrXU&t=525s
+:title: LXD token based remote authentication - Youtube
 ```
 
 You can confine access to specific projects by restricting the TLS client certificate that is used to connect to the LXD server.
@@ -52,6 +53,7 @@ However, it does not confine the client to this project.
 ## Confine projects to specific LXD users
 
 ```{youtube} https://www.youtube.com/watch?v=6O0q3rSWr8A
+:title: LXD for multi-user systems - Youtube
 ```
 
 If you use the [LXD snap](https://snapcraft.io/lxd), you can configure the multi-user LXD daemon contained in the snap to dynamically create projects for all users in a specific user group.
