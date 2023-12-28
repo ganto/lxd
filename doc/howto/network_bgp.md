@@ -10,6 +10,7 @@ The BGP server feature is available for the {ref}`network-bridge` and the {ref}`
 ```
 
 ```{youtube} https://www.youtube.com/watch?v=C9zU-FEqtTw
+:title: LXD and BGP - Youtube
 ```
 
 {abbr}`BGP (Border Gateway Protocol)` is a protocol that allows exchanging routing information between autonomous systems.
