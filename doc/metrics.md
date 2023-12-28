@@ -1,12 +1,13 @@
 ---
 discourse: 12281,11735
-relatedlinks: https://grafana.com/grafana/dashboards/19131-lxd/
+relatedlinks: "[LXD&#32;|&#32;Grafana Labs](https://grafana.com/grafana/dashboards/19131-lxd/)"
 ---
 
 (metrics)=
 # How to monitor metrics
 
 ```{youtube} https://www.youtube.com/watch?v=EthK-8hm_fY
+:title: LXD metrics with Prometheus and Grafana - Youtube
 ```
 
 <!-- Include start metrics intro -->

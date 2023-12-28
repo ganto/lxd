@@ -2,6 +2,7 @@
 # How to manage storage buckets and keys
 
 ```{youtube} https://www.youtube.com/watch?v=T1EeXPrjkEY
+:title: LXD's S3 API - Youtube
 ```
 
 See the following sections for instructions on how to create, configure, view and resize {ref}`storage-buckets` and how to manage storage bucket keys.

@@ -6,6 +6,7 @@ discourse: 12716
 # How to set up cluster groups
 
 ```{youtube} https://www.youtube.com/watch?v=t_3YJo_xItM
+:title: LXD cluster groups - Youtube
 ```
 
 Cluster members can be assigned to {ref}`cluster-groups`.

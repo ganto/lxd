@@ -2,6 +2,7 @@
 # About projects
 
 ```{youtube} https://www.youtube.com/watch?v=cUHkgg6TovM
+:title: Overview of LXD projects - Youtube
 ```
 
 You can use projects to keep your LXD server clean by grouping related instances together.

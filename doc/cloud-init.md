@@ -1,12 +1,13 @@
 ---
 discourse: 12559
-relatedlinks: https://cloudinit.readthedocs.org/
+relatedlinks: "[cloud-init&#32;documentation](https://cloudinit.readthedocs.org/)"
 ---
 
 (cloud-init)=
 # How to use `cloud-init`
 
 ```{youtube} https://www.youtube.com/watch?v=8OCG15TAldI
+:title: LXD instance configuration with cloud-init - Youtube
 ```
 
 [`cloud-init`](https://cloud-init.io/) is a tool for automatically initializing and customizing an instance of a Linux distribution.

@@ -6,6 +6,7 @@ discourse: 15457
 # Ceph RBD - `ceph`
 
 ```{youtube} https://youtube.com/watch?v=kVLGbvRU98A
+:title: Ceph and a LXD cluster - Youtube
 ```
 
 <!-- Include start Ceph intro -->

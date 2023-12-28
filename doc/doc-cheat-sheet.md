@@ -692,7 +692,7 @@ The documentation uses some custom extensions.
 
 You can add links to related websites to the sidebar by adding the following field at the top of the page:
 
-    relatedlinks: https://github.com/canonical/lxd-sphinx-extensions, [RTFM](https://www.google.com)
+    relatedlinks: "[canonical/canonical-sphinx-extensions&#32;Sphinx&#32;extensions&#32;used&#32;by&#32;LXD](https://github.com/canonical/lxd-sphinx-extensions)", "[RTFM](https://www.google.com)"
 
 To override the title, use Markdown syntax. Note that spaces are ignored; if you need spaces in the title, replace them with `&#32;`, and include the value in quotes if Sphinx complains about the metadata value because it starts with `[`.
 
